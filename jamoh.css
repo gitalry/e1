@@ -13,3 +13,7 @@ a {
 main {
     background-color: white;
 }
+.col 2 {
+    float: left;
+    background-color: grey;
+}
