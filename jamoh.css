@@ -1,8 +1,15 @@
-.navi {
+#content {
+    background-color: black;
+    width: 100;
+}
+#navi {
     float: left;
     height: inherit;
     background-color: grey;
 }
 a {
     color: white;
+}
+main {
+    background-color: white;
 }
