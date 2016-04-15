@@ -1,0 +1,19 @@
+#content {
+    background-color: black;
+    width: 100;
+}
+#navi {
+    float: left;
+    height: inherit;
+    background-color: grey;
+}
+a {
+    color: white;
+}
+main {
+    background-color: white;
+}
+.col 2 {
+    float: left;
+    background-color: grey;
+}
