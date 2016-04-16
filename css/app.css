@@ -1,16 +1,18 @@
-#content {
-    background-color: black;
-    width: 100;
 }
-#navi {
+.nav {
     float: left;
     height: inherit;
-    background-color: grey;
+    background-color:#444C63;
+    text-decoration: none;
+}
+
+}
 }
 a {
     color: white;
 }
 main {
+    float: right;
     background-color: white;
 }
 .col 2 {
