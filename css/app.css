@@ -1,17 +1,20 @@
 }
 .nav {
     float: left;
-    height: inherit;
-    background-color: #444C63;
+
+    background-color:gray;
     text-decoration: none;
-    display: block;
+
 }
 a {
     color: white;
     text-decoration: none;
 }
 main {
-    display: inline-block;
+
     float: right;
     background-color: white;
+}
+img{
+    min-height: 200px;
 }

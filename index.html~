@@ -24,45 +24,42 @@
         </div>
         <div class="small-10 columns main">
             <div class="row">
-                <div class="column small-2">
+                <div class="column small-3">
                     <img src="images/clown.jpg" height="200px" width="150px" class="" alt="">
                 </div>
-                <div class="column small-2">
+                <div class="column small-3">
                     <img src="images/baby-stock.jpg" height="200px" width="150px" class="" alt=""></div>
-                <div class="column small-2">
+                <div class="column small-3">
                     <img src="images/bike.jpg" height="200px" width="150px" class="" alt=""></div>
-                <div class="column small-2">
+                <div class="column small-3">
                     <img src="images/bus.png" height="200px" width="150px" class="" alt=""></div>
-                <div class="column small-2">
-                    <img src="images/camera.jpg" class="" alt=""></div>
+
 
             </div>
             <div class="row">
-                <div class="column small-2">
+                <div class="column small-3">
                     <img src="images/car.jpg" height="200px" width="150px" class="thumbnail" alt="">
                 </div>
-                <div class="column small-2">
-                    <img src="images/viag.jpg" height="200px" width="150px" class="thumbnail" alt=""></div>
-                <div class="column small-2">
+
+                <div class="column small-3">
                     <img src="images/clown.jpg" height="200px" width="150px" class="thumbnail" alt=""></div>
-                <div class="column small-2">
+                <div class="column small-3">
                     <img src="images/nokia.jpg" height="200px" width="150px" class="thumbnail" alt="">
                 </div>
-                <div class="column small-2">
+                <div class="column small-3">
                     <img src="images/nucleus.jpeg" height="200px" width="150px" class="thumbnail" alt=""></div>
 
             </div>
             <div class="row">
-                <div class="column small-2">
+                <div class="column small-3">
                     <img src="images/nokia.jpg" height="200px" width="150px" class="thumbnail" alt="">
                 </div>
-                <div class="column small-2">
-                    <img src="images/nucleus.jpeg" height="200px" width="150px" class="thumbnail" alt=""></div>
-                <div class="column small-2">
+
+                <div class="column small-3">
                     <img src="images/plane.jpeg" height="200px" width="150px" class="thumbnail" alt=""></div>
-                <div class="column small-2">
+                <div class="column small-3">
                     <img src="images/rollup.png" height="200px" width="150px" class="thumbnail" alt=""></div>
-                <div class="column small-2">
+                <div class="column small-3">
                     <img src="images/roundflower.jpg" height="200px" width="150px" class="thumbnail" alt=""></div>
 
             </div>
